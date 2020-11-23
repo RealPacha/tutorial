@@ -1,0 +1,12 @@
+baseURL = "https://testsite-uy4v.onrender.com/"
+languageCode = "de-de"
+title = "SenDev"
+theme = "bento"
+
+[menu]
+
+	[[menu.main]]
+		identifier = "about"
+		name = "About"
+		url = "/about/"
+		weight = -110
