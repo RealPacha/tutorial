@@ -1,4 +1,4 @@
-baseURL = "https://testsite-uy4v.onrender.com/"
+baseURL = "https://sendev.onrender.com"
 languageCode = "de-de"
 title = "SenDev"
 theme = "bento"
